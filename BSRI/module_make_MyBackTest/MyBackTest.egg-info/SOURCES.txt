@@ -1,0 +1,9 @@
+setup.py
+MyBackTest/__init__.py
+MyBackTest/backtest.py
+MyBackTest/evaluation.py
+MyBackTest/positions.py
+MyBackTest.egg-info/PKG-INFO
+MyBackTest.egg-info/SOURCES.txt
+MyBackTest.egg-info/dependency_links.txt
+MyBackTest.egg-info/top_level.txt

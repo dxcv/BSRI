@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+BSRI/__init__.py
+BSRI/getdata.py
+BSRI/rundaily.py
+BSRI.egg-info/PKG-INFO
+BSRI.egg-info/SOURCES.txt
+BSRI.egg-info/dependency_links.txt
+BSRI.egg-info/top_level.txt
